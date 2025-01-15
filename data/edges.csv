@@ -1,0 +1,30 @@
+Microorganism,Compound
+Methylococcus capsulatus,Methanol
+Methylococcus capsulatus,Formaldehyde
+Methylococcus capsulatus,Biomass
+Methanosarcina barkeri,Methane
+Methanosarcina barkeri,CO2
+Methanobacterium formicicum,Methane
+Methylosinus trichosporium,Formaldehyde
+Methylosinus trichosporium,Formate
+Clostridium autoethanogenum,Ethanol
+Clostridium autoethanogenum,Acetate
+Clostridium autoethanogenum,"2,3-butanediol"
+Clostridium carboxidivorans,Ethanol
+Clostridium carboxidivorans,Butanol
+Clostridium carboxidivorans,Acetate
+Acetobacterium woodii,Acetic acid
+Paracoccus denitrificans,Methanol oxidation products
+Rhodopseudomonas palustris,Hydrogen
+Rhodopseudomonas palustris,"Polyhydroxyalkanoates (PHA)"
+Desulfovibrio vulgaris,Hydrogen
+Desulfovibrio vulgaris,Sulfide
+Geobacter sulfurreducens,Electrical current
+Geobacter sulfurreducens,CO2
+Bacillus methanolicus,L-glutamate
+Bacillus methanolicus,Biomass
+Pseudomonas putida,Succinic acid
+Pseudomonas putida,Polyhydroxyalkanoates
+Halomonas boliviensis,Polyhydroxyalkanoates
+Cupriavidus necator,Polyhydroxyalkanoates
+Cupriavidus necator,Biomass
