@@ -15,7 +15,6 @@ In this project, we focus on microorganisms involved in **C1/C2 metabolism** (pr
 - **networkx** is the library for creating and managing the network graph (nodes, edges, and visualization).
 - **pandas** is used to read data from CSV files and handle the input data for microorganisms, compounds, and edges.
 
-Make sure to include the `requirements.txt` file along with the `README.md` in your GitHub repository to allow others to easily set up the environment.
 Users can install the required dependencies by running the following command:
 pip install -r requirements.txt
 
